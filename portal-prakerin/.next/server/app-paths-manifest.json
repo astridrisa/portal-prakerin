@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/edit-profile/page": "app/edit-profile/page.js",
+  "/landing_page/jobdesc/page": "app/landing_page/jobdesc/page.js",
+  "/landing_page/page": "app/landing_page/page.js",
+  "/landing_page/tentang/page": "app/landing_page/tentang/page.js",
+  "/login/page": "app/login/page.js",
+  "/register/page": "app/register/page.js"
+}
